@@ -1,0 +1,593 @@
+Name,Year,Gender
+Billie Eilish,2021,Unknown
+A$AP Rocky,2021,Male
+Rihanna,2021,Female
+Jennifer Lopez,2021,Female
+Lil Nas X,2021,Male
+Lorde,2021,Female
+Timothée Chalamet,2021,Male
+Iman,2021,Female
+Kaia Gerber,2021,Female
+Kendall Jenner,2021,Female
+Zoë Kravitz,2021,Female
+Gigi Hadid,2021,Female
+Maisie Williams,2021,Female
+Jennifer Hudson,2021,Female
+Emily Ratajkowski,2021,Female
+Emily Blunt,2021,Female
+Ciara,2021,Female
+Megan Fox,2021,Female
+Lily-Rose Depp,2021,Female
+Shawn Mendes,2021,Male
+Camilla Cabello,2021,Unknown
+Justin Bieber,2021,Male
+Hailey Bieber,2021,Female
+Kim Kardashian,2021,Female
+Rosé,2021,Female
+Carey Mulligan,2021,Female
+Kristen Stewart,2021,Female
+Gemma Chan,2021,Female
+Yara Shahidi,2021,Female
+Normani,2021,Female
+Olivia Rodrigo,2021,Female
+Lupita Nyong'o,2021,Female
+Grimes,2021,Female
+Brooklyn Beckham,2021,Male
+Nicola Peltz,2021,Unknown
+Naomi Osaka,2021,Unknown
+Emma Chamberlain,2021,Female
+Keke Palmer,2021,Female
+Karlie Kloss,2021,Female
+Wes Gordon,2021,Unknown
+Hailee Steinfeld,2021,Female
+Megan Thee Stallion,2021,Female
+Tracee Ellis Ross,2021,Female
+Eiza González,2021,Female
+Dan Levy,2021,Male
+Tom Ford,2021,Male
+Ella Emhoff,2021,Female
+Lili Reinhart,2021,Female
+Barbie Ferreira,2021,Female
+Anok Yai,2021,Female
+Ilana Glazer,2021,Female
+Zoey Deutch,2021,Female
+Saweetie,2021,Female
+Julia Garner,2021,Female
+Evan Mock,2021,Male
+Kit Harington,2021,Male
+Rose Leslie,2021,Female
+Taraji P. Henson,2021,Female
+Troye Sivan,2021,Male
+Serena Williams,2021,Female
+Alexis Ohanian,2021,Male
+Rachel Smith,2021,Female
+Adrien Brody,2021,Male
+Georgina Chapman,2021,Female
+Anna Wintour,2021,Female
+Elliot Page,2021,Non-binary
+Madison Beer,2021,Female
+Carolyn B. Maloney,2021,Female
+Amanda Gorman,2021,Female
+Eva Chen,2021,Female
+Alicia Quarles,2021,Female
+Finneas,2021,Male
+Bee Carrozzini,2021,Female
+Adam Mosseri,2021,Male
+Monica Mosseri,2021,Female
+Nia Dennis,2021,Female
+Charles Shaffer,2021,Male
+Elizabeth Cordry Shaffer,2021,Female
+Julia Carey,2021,Female
+James Corden,2021,Male
+Sophia Roe,2021,Female
+Leon Bridges,2021,Male
+Valentina Sampaio,2021,Female
+Storm Reid,2021,Female
+Chance the Rapper,2021,Male
+Kirsten Corley,2021,Female
+Jordan Roth,2021,Male
+Zac Posen,2021,Male
+Debbie Harry,2021,Female
+Ben Platt,2021,Male
+Kim Petras,2021,Female
+Mj Rodriguez,2021,Female
+Nikkie de Jager,2021,Female
+Irina Shayk,2021,Female
+Addison Rae,2021,Female
+Pete Davidson,2021,Male
+Channing Tatum,2021,Male
+Rachel Zegler,2021,Female
+Cynthia Erivo,2021,Female
+Diane von Furstenberg,2021,Unknown
+Lourdes Leon,2021,Female
+Donatella Versace,2021,Female
+Megan Rapinoe,2021,Female
+Precious Lee,2021,Female
+Chloe Fineman,2021,Female
+Kris Jenner,2021,Female
+Mary J. Blige,2021,Female
+Imaan Hammam,2021,Female
+Gillian Anderson,2021,Female
+Dominic Cooper,2021,Male
+Frank Ocean,2021,Male
+Taylor Hill,2021,Female
+Jordan Alexander,2021,Female
+Alexandria Ocasio-Cortez,2021,Female
+Aurora James,2021,Female
+Mindy Kaling,2021,Female
+Virgil Abloh,2021,Male
+Sienna Miller,2021,Unknown
+Taika Waititi,2021,Male
+Rita Ora,2021,Female
+Gabrielle Union,2021,Female
+Claire Danes,2021,Female
+Hugh Dancy,2021,Male
+Chloe Bailey,2021,Female
+Halle Bailey,2021,Female
+Alicia Keys,2021,Female
+Sharon Stone,2021,Unknown
+Winnie Harlow,2021,Female
+Kate Hudson,2021,Female
+Tessa Thompson,2021,Female
+Cara Delevingne,2021,Female
+Vittoria Ceretti,2021,Female
+Hunter Schafer,2021,Female
+Laura Harrier,2021,Female
+Diane Kruger,2021,Female
+Whoopi Goldberg,2021,Female
+Janet Mock,2021,Female
+Lily Aldridge,2021,Female
+Paloma Elsesser,2021,Female
+Adut Akech,2021,Female
+Sunisa Lee,2021,Female
+Isabelle Huppert,2021,Female
+Aldis Hodge,2021,Male
+Alton Mason,2021,Male
+Maluma,2021,Male
+Blake Lively,2022,Female
+Pete Davidson,2022,Male
+Kim Kardashian,2022,Female
+Bella Hadid,2022,Female
+Gigi Hadid,2022,Female
+Hailey Bieber,2022,Female
+Billie Eilish,2022,Unknown
+Kaia Gerber,2022,Female
+Kylie Jenner,2022,Female
+Simone Ashley,2022,Female
+Kendall Jenner,2022,Female
+Olivia Rodrigo,2022,Female
+Emily Ratajkowski,2022,Female
+Dakota Johnson,2022,Female
+Ryan Reynolds,2022,Male
+Joe Jonas,2022,Male
+Sophie Turner,2022,Female
+Emma Stone,2022,Female
+Eiza González,2022,Female
+Carey Mulligan,2022,Female
+Cardi B,2022,Female
+Cara Delevingne,2022,Female
+Gemma Chan,2022,Female
+Sarah Jessica Parker,2022,Female
+Sydney Sweeney,2022,Female
+Maude Apatow,2022,Female
+Phoebe Dynevor,2022,Female
+Hoyeon Jung,2022,Female
+Julianne Moore,2022,Female
+Chloë Grace Moretz,2022,Female
+Glenn Close,2022,Female
+Cynthia Erivo,2022,Female
+Alexa Chung,2022,Female
+Lizzo,2022,Female
+Claire Danes,2022,Female
+Hugh Dancy,2022,Male
+Camila Mendes,2022,Female
+Alexandre Mattiussi,2022,Male
+Vanessa Hudgens,2022,Female
+Nicola Coughlan,2022,Female
+Emma Chamberlain,2022,Female
+Miranda Kerr,2022,Female
+Anna Wintour,2022,Female
+Brooklyn Beckham,2022,Male
+Nicola Peltz Beckham,2022,Female
+Jessica Chastain,2022,Female
+Janelle Monáe,2022,Female
+Gwen Stefani,2022,Female
+Camila Cabello,2022,Female
+Michelle Yeoh,2022,Female
+Shawn Mendes,2022,Male
+Daisy Edgar-Jones,2022,Female
+Amy Schumer,2022,Female
+Jeremy Scott,2022,Male
+Ariana DeBose,2022,Female
+Tessa Thompson,2022,Female
+Austin Butler,2022,Male
+Mindy Kaling,2022,Female
+Kacey Musgraves,2022,Female
+Adrien Brody,2022,Male
+Georgina Chapman,2022,Female
+Sebastian Stan,2022,Male
+Joan Smalls,2022,Female
+Evan Mock,2022,Male
+Ashley Park,2022,Female
+Amber Valletta,2022,Female
+Winnie Harlow,2022,Female
+Vanessa Nadal,2022,Female
+Lin-Manuel Miranda,2022,Male
+Venus Williams,2022,Female
+Hillary Clinton,2022,Female
+Paloma Elsesser,2022,Female
+Anderson Paak,2022,Male
+Ansel Elgort,2022,Male
+Laura Harrier,2022,Female
+Tommy Dorfman,2022,Non-binary
+Quannah Chasinghorse,2022,Female
+Priscilla Presley,2022,Female
+Ben Winston,2022,Male
+Meredith Winston,2022,Female
+Francesco Carrozzini,2022,Male
+Bee Carrozzini,2022,Female
+Wendi Murdoch,2022,Female
+La La Anthony,2022,Female
+Hamish Bowles,2022,Male
+Autumn de Wilde,2022,Unknown
+Janicza Bravo,2022,Female
+Mark Guiducci,2022,Male
+Allie Michler,2022,Female
+Fabiola Beracasa Beckman,2022,Female
+Lisa Love,2022,Female
+Willow Lindley,2022,Female
+Eaddy Kiernan,2022,Female
+Steve Newhouse,2022,Male
+Gina Sanders,2022,Female
+Elizabeth Schaffer,2022,Female
+Amirah Kassem,2022,Female
+Adrienne Adams,2022,Female
+Caroline Wozniacki,2022,Female
+Annie Leibovitz,2022,Female
+Samuelle Leibovitz,2022,Female
+Lisa Airan,2022,Female
+Tom Ford,2022,Male
+Isabelle Boemeke,2022,Female
+Joe Gebbia,2022,Male
+Alicia Keys,2022,Female
+Paapa Essiedu,2022,Male
+Charlotte Tilbury,2022,Female
+Chloe Kim,2022,Female
+Jordan Roth,2022,Male
+Renée Elise Goldsberry,2022,Female
+Renate Reinsve,2022,Female
+Kodi Smit-McPhee,2022,Male
+Bradley Cooper,2022,Male
+Phoebe Bridgers,2022,Female
+Kris Jenner,2022,Female
+Precious Lee,2022,Female
+Rachel Brosnahan,2022,Female
+Megan Thee Stallion,2022,Female
+Caroline Trentini,2022,Female
+Sabrina Carpenter,2022,Female
+Shalom Harlow,2022,Female
+Danai Gurira,2022,Female
+Taylor Hill,2022,Female
+Madelaine Petsch,2022,Female
+Kiki Layne,2022,Female
+Lenny Kravitz,2022,Male
+Normani,2022,Female
+Regé-Jean Page,2022,Male
+Future,2022,Male
+Sigourney Weaver,2022,Female
+Naomi Campbell,2022,Female
+Irina Shayk,2022,Female
+Dove Cameron,2022,Female
+Chloe Bailey,2022,Female
+Lily Aldridge,2022,Female
+Jasmine Tookes,2022,Female
+Addison Rae,2022,Female
+Maisie Williams,2022,Female
+SZA,2022,Female
+Awkwafina,2022,Female
+Rachel Smith,2022,Female
+Emma Corrin,2022,Non-binary
+Nicki Minaj,2022,Female
+A$AP Rocky,2023,Male
+Rihanna,2023,Female
+Kim Kardashian,2023,Female
+Kendall Jenner,2023,Female
+Kylie Jenner,2023,Female
+Jennifer Lopez,2023,Female
+Jared Leto,2023,Unknown
+Lil Nas X,2023,Male
+Florence Pugh,2023,Female
+Bad Bunny,2023,Male
+Pedro Pascal,2023,Male
+Anne Hathaway,2023,Female
+Jenna Ortega,2023,Female
+Serena Williams,2023,Female
+Alexis Ohanian,2023,Male
+Barry Keoghan,2023,Male
+Ke Huy Quan,2023,Male
+Amanda Seyfried,2023,Female
+Erykah Badu,2023,Female
+Lily Collins,2023,Female
+Olivia Rodrigo,2023,Female
+Teyana Taylor,2023,Female
+Keke Palmer,2023,Female
+Doja Cat,2023,Female
+Salma Hayek,2023,Female
+Brian Tyree Henry,2023,Male
+Jessica Chastain,2023,Female
+Michaela Coel,2023,Female
+Halle Bailey,2023,Female
+Irina Shayk,2023,Female
+Jonathan Groff,2023,Male
+Kate Moss,2023,Female
+Margot Robbie,2023,Female
+Naomi Campbell,2023,Female
+Ice Spice,2023,Female
+Gisele Bündchen,2023,Female
+Ariana DeBose,2023,Female
+Quinta Brunson,2023,Female
+Anok Yai,2023,Female
+Philippa Soo,2023,Female
+David Byrne,2023,Male
+Nicole Kidman,2023,Female
+Emily Ratajkowski,2023,Female
+Josh Groban,2023,Male
+Natalie McQueen,2023,Female
+Phoebe Bridgers,2023,Female
+Rita Ora,2023,Female
+Penélope Cruz,2023,Female
+Emma Chamberlain,2023,Female
+Dua Lipa,2023,Female
+Kate Hudson,2023,Female
+Gigi Hadid,2023,Female
+Elle Fanning,2023,Female
+Hugh Jackman,2023,Male
+Janelle Monae,2023,Unknown
+Emily Blunt,2023,Female
+Lily James,2023,Female
+Pete Davidson,2023,Male
+Michelle Yeoh,2023,Female
+Nick Jonas,2023,Male
+Priyanka Chopra,2023,Female
+Simu Liu,2023,Male
+Glenn Close,2023,Female
+Naomi Ackie,2023,Female
+Ashley Park,2023,Female
+Maluma,2023,Male
+Camila Morrone,2023,Female
+Mindy Kaling,2023,Female
+Roger Federer,2023,Male
+Anna Wintour,2023,Female
+Zendaya,2024,Female
+Cardi B,2024,Female
+Nicki Minaj,2024,Female
+Camila Cabello,2024,Female
+Donatella Versace,2024,Female
+Andrew Scott,2024,Male
+Jude Law,2024,Male
+Kylie Jenner,2024,Female
+Nicole Kidman,2024,Female
+Keith Urban,2024,Male
+FKA Twigs,2024,Female
+Willow Smith,2024,Female
+Jaden Smith,2024,Male
+Taraji P. Henson,2024,Female
+Elizabeth Debicki,2024,Female
+Charlie Hunnam,2024,Male
+Kieran Culkin,2024,Male
+Jazz Charton,2024,Female
+Awkwafina,2024,Female
+Usher,2024,Male
+Chase Stokes,2024,Male
+Kelsea Ballerini,2024,Female
+Sydney Sweeney,2024,Female
+Michelle Yeoh,2024,Female
+Sabrina Carpenter,2024,Female
+Dwyane Wade,2024,Male
+Gabrielle Union,2024,Female
+Shakira,2024,Female
+Cara Delevingne,2024,Female
+Ed Sheeran,2024,Male
+Dua Lipa,2024,Female
+Lil Nas X,2024,Male
+Rachel Zegler,2024,Female
+Meg Ryan,2024,Female
+Kerry Washington,2024,Female
+Demi Lovato,2024,Female
+Phoebe Dynevor,2024,Female
+Naomi Watts,2024,Female
+Lana Del Rey,2024,Female
+Kim Kardashian,2024,Female
+Lily Gladstone,2024,Female
+Serena Williams,2024,Female
+Kendall Jenner,2024,Female
+Pamela Anderson,2024,Female
+Adrien Brody,2024,Male
+Georgina Chapman,2024,Female
+Queen Latifah,2024,Female
+Karol G,2024,Female
+Sam Smith,2024,Non-binary
+Janelle Monáe,2024,Female
+Keke Palmer,2024,Female
+Ariana Grande,2024,Female
+Cynthia Erivo,2024,Female
+Riley Keough,2024,Female
+Charli XCX,2024,Female
+Troye Sivan,2024,Male
+Amanda Gorman,2024,Female
+Jodie Turner-Smith,2024,Female
+Barry Keoghan,2024,Male
+Doja Cat,2024,Female
+Brie Larson,2024,Female
+Amanda Seyfried,2024,Female
+Da'Vine Joy Randolph,2024,Female
+Jeff Goldblum,2024,Male
+Elle Fanning,2024,Female
+Demi Moore,2024,Female
+Hugh Jackman,2024,Male
+Dove Cameron,2024,Female
+Penelope Cruz,2024,Female
+Kylie Minogue,2024,Female
+Emma Wall,2024,Female
+Jeremy Strong,2024,Male
+Nicholas Galitzine,2024,Male
+Kris Jenner,2024,Female
+Corey Gamble,2024,Male
+Jessica Biel,2024,Female
+Sarah Jessica Parker,2024,Female
+Andy Cohen,2024,Male
+Greta Lee,2024,Female
+Uma Thurman,2024,Female
+Ambika Mod,2024,Female
+Stray Kids,2024,Group
+Jon Batiste,2024,Male
+Pharrell Williams,2025,Male
+Lewis Hamilton,2025,Male
+Colman Domingo,2025,Male
+A$AP Rocky,2025,Male
+Debbie Allen,2025,Female
+Norman Nixon,2025,Male
+Pamela Anderson,2025,Female
+André 3000,2025,Male
+La La Anthony,2025,Female
+Babyface,2025,Male
+Bad Bunny,2025,Male
+Halle Bailey,2025,Female
+Monica Barbaro,2025,Female
+Halle Berry,2025,Female
+Hailey Bieber,2025,Female
+Simone Biles,2025,Female
+Mary J. Blige,2025,Female
+Stella McCartney,2025,Female
+Adrien Brody,2025,Male
+Georgina Chapman,2025,Female
+Rachel Brosnahan,2025,Female
+Quinta Brunson,2025,Female
+Cardi B,2025,Female
+Sabrina Carpenter,2025,Female
+Emma Chamberlain,2025,Female
+Charli XCX,2025,Female
+James Corden,2025,Male
+Julia Carey,2025,Female
+Miley Cyrus,2025,Female
+Dapper Dan,2025,Male
+Andra Day,2025,Female
+Lana Del Rey,2025,Female
+Alessandro Michele,2025,Male
+Doechii,2025,Female
+Doja Cat,2025,Female
+Raúl Domingo,2025,Unknown
+Ayo Edebiri,2025,Female
+Tracee Ellis Ross,2025,Female
+Cynthia Erivo,2025,Female
+Walton Goggins,2025,Male
+Whoopi Goldberg,2025,Female
+Jeff Goldblum,2025,Male
+Gigi Hadid,2025,Female
+Zuri Hall,2025,Female
+Laura Harrier,2025,Female
+Anne Hathaway,2025,Female
+Maya Hawke,2025,Female
+Lauryn Hill,2025,Female
+Damson Idris,2025,Male
+Kendall Jenner,2025,Female
+Kylie Jenner,2025,Female
+Coco Jones,2025,Female
+Radhika Jones,2025,Female
+Nick Jonas,2025,Male
+Priyanka Chopra Jonas,2025,Female
+Colin Kaepernick,2025,Male
+Nessa Diab,2025,Female
+Mindy Kaling,2025,Female
+Kim Kardashian,2025,Female
+Barry Keoghan,2025,Male
+Alicia Keys,2025,Female
+Swizz Beatz,2025,Male
+Nicole Kidman,2025,Female
+Regina King,2025,Female
+Karlie Kloss,2025,Female
+Christian Latchman,2025,Male
+Dua Lipa,2025,Female
+Lizzo,2025,Female
+Lorde,2025,Female
+Madonna,2025,Female
+Audra McDonald,2025,Female
+Megan Thee Stallion,2025,Female
+Nicki Minaj,2025,Female
+Janelle Monáe,2025,Female
+Demi Moore,2025,Female
+Alex Newell,2025,Non-binary
+Ego Nwodim,2025,Female
+Kwame Onwuachi,2025,Unknown
+Regé-Jean Page,2025,Male
+Keke Palmer,2025,Female
+Natasha Lyonne,2025,Female
+Jeremy Pope,2025,Male
+Gina Alice Redlinger,2025,Female
+Sofia Richie,2025,Female
+Rihanna,2025,Female
+Chappell Roan,2025,Female
+Rosalía,2025,Female
+Jordan Roth,2025,Male
+Diana Ross,2025,Female
+Evan Ross,2025,Male
+Zoë Saldaña,2025,Female
+Anna Sawai,2025,Female
+Nicole Scherzinger,2025,Female
+Andrew Scott,2025,Male
+Jonathan Simkhai,2025,Unknown
+Kerry Washington,2025,Female
+Shakira,2025,Female
+Sadie Sink,2025,Female
+Sam Smith,2025,Non-binary
+Sarah Snook,2025,Female
+Breanna Stewart,2025,Female
+Sydney Sweeney,2025,Female
+Teyana Taylor,2025,Female
+Tramell Tillman,2025,Male
+Dwyane Wade,2025,Male
+Gabrielle Union,2025,Female
+Suki Waterhouse,2025,Female
+Jeremy Allen White,2025,Male
+Helen Lasichanh,2025,Female
+Serena Williams,2025,Female
+Anna Wintour,2025,Female
+Aimee Lou Wood,2025,Female
+Patrick Schwarzenegger,2025,Male
+Zendaya,2025,Female
+LeBron James,2025,Male
+Ugbad Abdi,2025,Female
+Huma Abedin,2025,Female
+Haider Ackermann,2025,Male
+Adrienne E. Adams,2025,Female
+Joseph J. Adams,2025,Male
+Kiara Advani,2025,Female
+Adut Akech,2025,Female
+Isha Ambani,2025,Female
+J Balvin,2025,Male
+Valentina Ferrer,2025,Female
+Saquon Barkley,2025,Male
+Angela Bassett,2025,Female
+Jon Batiste,2025,Male
+Pietro Beccari,2025,Unknown
+Elisabetta Beccari,2025,Female
+Tyson Beckford,2025,Male
+Oswald Boateng,2025,Male
+Hanna Hultberg,2025,Female
+Andreew Bolton,2025,Male
+Hamish Bowles,2025,Male
+Burna Boy,2025,Male
+Ev Bravado,2025,Male
+Janicza Bravo,2025,Female
+Gale A. Brewer,2025,Female
+Leon Bridges,2025,Male
+Thom Browne,2025,Male
+Tory Burch,2025,Female
+Bee Carrozzini,2025,Female
+Francesco Carrozzini,2025,Male
+Ruth E. Carter,2025,Female
+Charlie Casely-Hayford,2025,Male
+Jordan Casteel,2025,Female
+Central Cee,2025,Male
+Miles Chamley-Watson,2025,Male
+Chance the Rapper,2025,Male
