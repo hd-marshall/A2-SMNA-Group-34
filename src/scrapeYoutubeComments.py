@@ -9,6 +9,17 @@ import traceback
 # Initialize the downloader
 downloader = YoutubeCommentDownloader()
 
+# Map each video URL to its corresponding Met Gala year
+met_gala_years = {
+    'https://www.youtube.com/watch?v=iWS3oVeyjL4': 2025,  # 2025 - Part 1
+    'https://www.youtube.com/watch?v=Ar9NFhmSnrk': 2025,  # 2025 - Part 2
+    'https://www.youtube.com/watch?v=P71sr0kZY7o': 2024,  # 2024
+    'https://www.youtube.com/watch?v=E_WcvAiKQfI': 2023,  # 2023 - Part 1
+    'https://www.youtube.com/watch?v=XUIB4oWw37I': 2023,  # 2023 - Part 2
+    'https://www.youtube.com/watch?v=PbRZcvVnF0w': 2022,  # 2022
+    'https://www.youtube.com/watch?v=ZMrgtotgThk': 2021   # 2021
+}
+
 def get_youtube_comments(url_list, comments_per_url, sort_by_top=True):
     # Get system time - using your OS time
     current_date = datetime.now()
@@ -20,9 +31,14 @@ def get_youtube_comments(url_list, comments_per_url, sort_by_top=True):
     for i, (url, max_comments) in enumerate(zip(url_list, comments_per_url)):
         print(f"Processing URL {i+1}/{len(url_list)}: {url} - Getting {max_comments} comments")
         
-        # Set sort option if requested
-        # NOTE: The youtube-comment-downloader might not support sort_by parameter
-        # Let's try without it first
+        # Get the Met Gala year for this video
+        met_gala_year = met_gala_years.get(url, None)
+        if met_gala_year is None:
+            # Try extracting from the URL if it's not in our dictionary
+            video_id = url.split('v=')[1].split('&')[0] if 'v=' in url else url.split('/')[-1]
+            print(f"Warning: No Met Gala year mapping found for video ID {video_id}. Setting to Unknown.")
+            met_gala_year = "Unknown"
+        
         try:
             # Try without sort parameter first
             comments_generator = downloader.get_comments_from_url(url)
@@ -141,7 +157,8 @@ def get_youtube_comments(url_list, comments_per_url, sort_by_top=True):
                         'likes': likes,
                         'date': date_str,
                         'time': time_str,
-                        'year': year
+                        'year': year,
+                        'met_gala_year': met_gala_year  # Add the Met Gala year
                     })
                     
                     count += 1
@@ -165,7 +182,7 @@ def get_youtube_comments(url_list, comments_per_url, sort_by_top=True):
         return pd.DataFrame(all_comments_list)
     else:
         print("No comments were collected. Returning empty DataFrame.")
-        return pd.DataFrame(columns=['video_id', 'text', 'author', 'likes', 'date', 'time', 'year'])
+        return pd.DataFrame(columns=['video_id', 'text', 'author', 'likes', 'date', 'time', 'year', 'met_gala_year'])
 
 def save_to_csv(comments_df, filename='youtube_comments.csv'):
     """Save the comments DataFrame to a CSV file"""
@@ -199,12 +216,21 @@ comments_per_url = [1500, 1500, 3000, 1500, 500, 2000, 2000]
 # Get comments with date and time
 try:
     comments_df = get_youtube_comments(urls, comments_per_url, sort_by_top=False)  # Try without sorting
-
+    
     # Only proceed with stats if we have data
     if not comments_df.empty:
         # Display stats
         print("\nComments collected:")
         print(comments_df.groupby('video_id').size())
+        
+        # Display stats by Met Gala year
+        print("\nComments by Met Gala Year:")
+        print(comments_df.groupby('met_gala_year').size())
+        
+        # Display comments by posted year vs Met Gala year
+        print("\nComments by Posted Year vs Met Gala Year:")
+        year_comparison = pd.crosstab(comments_df['year'], comments_df['met_gala_year'])
+        print(year_comparison)
         
         # Display first few comments to check
         print("\nSample of comments:")
