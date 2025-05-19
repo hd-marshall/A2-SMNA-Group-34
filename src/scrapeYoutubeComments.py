@@ -6,10 +6,6 @@ import csv
 import sys
 import traceback
 
-# ============= CONFIGURATION SECTION =============
-# This section contains all the URLs and their corresponding years
-# Add new URLs and years here
-
 # URL Configuration - Dictionary with URL as key and Met Gala year as value
 URL_CONFIG = {
     # 2025 Videos
