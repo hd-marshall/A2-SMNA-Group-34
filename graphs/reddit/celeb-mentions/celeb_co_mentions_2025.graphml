@@ -1,0 +1,185 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="weight" attr.type="int"/>
+<graph edgedefault="undirected"><node id="anna sawai"/>
+<node id="zendaya"/>
+<node id="ayo edebiri"/>
+<node id="anna wintour"/>
+<node id="diana ross"/>
+<node id="evan ross"/>
+<node id="hailey bieber"/>
+<node id="maya hawke"/>
+<node id="sydney sweeney"/>
+<node id="walton goggins"/>
+<node id="doja cat"/>
+<node id="lorde"/>
+<node id="thom browne"/>
+<node id="cardi b"/>
+<node id="teyana taylor"/>
+<node id="nicki minaj"/>
+<node id="jeremy pope"/>
+<node id="chappell roan"/>
+<node id="doechii"/>
+<node id="dwyane wade"/>
+<node id="gabrielle union"/>
+<node id="dapper dan"/>
+<node id="lauryn hill"/>
+<node id="megan thee stallion"/>
+<node id="janelle monáe"/>
+<node id="miley cyrus"/>
+<node id="patrick schwarzenegger"/>
+<node id="demi moore"/>
+<node id="gigi hadid"/>
+<node id="rihanna"/>
+<node id="colman domingo"/>
+<node id="lewis hamilton"/>
+<node id="jeremy allen white"/>
+<node id="jon batiste"/>
+<node id="bad bunny"/>
+<node id="sabrina carpenter"/>
+<node id="laura harrier"/>
+<node id="whoopi goldberg"/>
+<node id="angela bassett"/>
+<node id="kylie jenner"/>
+<node id="shakira"/>
+<edge source="anna sawai" target="zendaya">
+  <data key="d0">16</data>
+</edge>
+<edge source="zendaya" target="ayo edebiri">
+  <data key="d0">3</data>
+</edge>
+<edge source="zendaya" target="anna wintour">
+  <data key="d0">2</data>
+</edge>
+<edge source="zendaya" target="diana ross">
+  <data key="d0">9</data>
+</edge>
+<edge source="zendaya" target="cardi b">
+  <data key="d0">2</data>
+</edge>
+<edge source="zendaya" target="rihanna">
+  <data key="d0">4</data>
+</edge>
+<edge source="zendaya" target="doechii">
+  <data key="d0">3</data>
+</edge>
+<edge source="zendaya" target="sabrina carpenter">
+  <data key="d0">3</data>
+</edge>
+<edge source="ayo edebiri" target="doechii">
+  <data key="d0">2</data>
+</edge>
+<edge source="diana ross" target="evan ross">
+  <data key="d0">2</data>
+</edge>
+<edge source="diana ross" target="rihanna">
+  <data key="d0">3</data>
+</edge>
+<edge source="hailey bieber" target="maya hawke">
+  <data key="d0">4</data>
+</edge>
+<edge source="hailey bieber" target="sydney sweeney">
+  <data key="d0">2</data>
+</edge>
+<edge source="hailey bieber" target="walton goggins">
+  <data key="d0">2</data>
+</edge>
+<edge source="maya hawke" target="walton goggins">
+  <data key="d0">2</data>
+</edge>
+<edge source="maya hawke" target="kylie jenner">
+  <data key="d0">2</data>
+</edge>
+<edge source="maya hawke" target="shakira">
+  <data key="d0">2</data>
+</edge>
+<edge source="sydney sweeney" target="gigi hadid">
+  <data key="d0">2</data>
+</edge>
+<edge source="walton goggins" target="doja cat">
+  <data key="d0">3</data>
+</edge>
+<edge source="walton goggins" target="thom browne">
+  <data key="d0">2</data>
+</edge>
+<edge source="lorde" target="thom browne">
+  <data key="d0">3</data>
+</edge>
+<edge source="thom browne" target="janelle monáe">
+  <data key="d0">3</data>
+</edge>
+<edge source="thom browne" target="doechii">
+  <data key="d0">4</data>
+</edge>
+<edge source="thom browne" target="demi moore">
+  <data key="d0">2</data>
+</edge>
+<edge source="thom browne" target="dapper dan">
+  <data key="d0">2</data>
+</edge>
+<edge source="thom browne" target="whoopi goldberg">
+  <data key="d0">2</data>
+</edge>
+<edge source="cardi b" target="teyana taylor">
+  <data key="d0">5</data>
+</edge>
+<edge source="cardi b" target="nicki minaj">
+  <data key="d0">3</data>
+</edge>
+<edge source="cardi b" target="angela bassett">
+  <data key="d0">2</data>
+</edge>
+<edge source="teyana taylor" target="rihanna">
+  <data key="d0">2</data>
+</edge>
+<edge source="nicki minaj" target="jeremy pope">
+  <data key="d0">2</data>
+</edge>
+<edge source="chappell roan" target="doechii">
+  <data key="d0">3</data>
+</edge>
+<edge source="chappell roan" target="sabrina carpenter">
+  <data key="d0">2</data>
+</edge>
+<edge source="doechii" target="megan thee stallion">
+  <data key="d0">2</data>
+</edge>
+<edge source="doechii" target="bad bunny">
+  <data key="d0">2</data>
+</edge>
+<edge source="doechii" target="colman domingo">
+  <data key="d0">3</data>
+</edge>
+<edge source="doechii" target="jeremy allen white">
+  <data key="d0">2</data>
+</edge>
+<edge source="doechii" target="sabrina carpenter">
+  <data key="d0">5</data>
+</edge>
+<edge source="doechii" target="jon batiste">
+  <data key="d0">2</data>
+</edge>
+<edge source="dwyane wade" target="gabrielle union">
+  <data key="d0">2</data>
+</edge>
+<edge source="dapper dan" target="lauryn hill">
+  <data key="d0">2</data>
+</edge>
+<edge source="miley cyrus" target="patrick schwarzenegger">
+  <data key="d0">2</data>
+</edge>
+<edge source="rihanna" target="sabrina carpenter">
+  <data key="d0">2</data>
+</edge>
+<edge source="colman domingo" target="lewis hamilton">
+  <data key="d0">4</data>
+</edge>
+<edge source="lewis hamilton" target="laura harrier">
+  <data key="d0">2</data>
+</edge>
+<edge source="jeremy allen white" target="jon batiste">
+  <data key="d0">2</data>
+</edge>
+<edge source="jeremy allen white" target="sabrina carpenter">
+  <data key="d0">2</data>
+</edge>
+</graph></graphml>

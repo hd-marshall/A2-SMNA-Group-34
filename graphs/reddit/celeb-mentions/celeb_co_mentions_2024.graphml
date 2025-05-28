@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="weight" attr.type="int"/>
+<graph edgedefault="undirected"><node id="kendall jenner"/>
+<node id="kim kardashian"/>
+<node id="kris jenner"/>
+<node id="kylie jenner"/>
+<node id="barry keoghan"/>
+<node id="elle fanning"/>
+<node id="lana del rey"/>
+<node id="zendaya"/>
+<node id="amanda seyfried"/>
+<node id="nicki minaj"/>
+<node id="andrew scott"/>
+<node id="donatella versace"/>
+<node id="jude law"/>
+<node id="chase stokes"/>
+<node id="kelsea ballerini"/>
+<node id="greta lee"/>
+<node id="lily gladstone"/>
+<node id="dua lipa"/>
+<node id="sydney sweeney"/>
+<edge source="kendall jenner" target="kim kardashian">
+  <data key="d0">5</data>
+</edge>
+<edge source="kendall jenner" target="kris jenner">
+  <data key="d0">3</data>
+</edge>
+<edge source="kendall jenner" target="kylie jenner">
+  <data key="d0">3</data>
+</edge>
+<edge source="kendall jenner" target="zendaya">
+  <data key="d0">2</data>
+</edge>
+<edge source="kim kardashian" target="kris jenner">
+  <data key="d0">3</data>
+</edge>
+<edge source="kim kardashian" target="kylie jenner">
+  <data key="d0">3</data>
+</edge>
+<edge source="kris jenner" target="kylie jenner">
+  <data key="d0">4</data>
+</edge>
+<edge source="barry keoghan" target="elle fanning">
+  <data key="d0">2</data>
+</edge>
+<edge source="elle fanning" target="lana del rey">
+  <data key="d0">3</data>
+</edge>
+<edge source="lana del rey" target="zendaya">
+  <data key="d0">2</data>
+</edge>
+<edge source="zendaya" target="amanda seyfried">
+  <data key="d0">2</data>
+</edge>
+<edge source="zendaya" target="nicki minaj">
+  <data key="d0">2</data>
+</edge>
+<edge source="zendaya" target="lily gladstone">
+  <data key="d0">2</data>
+</edge>
+<edge source="andrew scott" target="donatella versace">
+  <data key="d0">2</data>
+</edge>
+<edge source="andrew scott" target="jude law">
+  <data key="d0">3</data>
+</edge>
+<edge source="donatella versace" target="jude law">
+  <data key="d0">2</data>
+</edge>
+<edge source="chase stokes" target="kelsea ballerini">
+  <data key="d0">2</data>
+</edge>
+<edge source="greta lee" target="lily gladstone">
+  <data key="d0">2</data>
+</edge>
+<edge source="dua lipa" target="sydney sweeney">
+  <data key="d0">2</data>
+</edge>
+</graph></graphml>

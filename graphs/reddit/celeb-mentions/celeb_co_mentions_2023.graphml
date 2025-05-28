@@ -1,0 +1,420 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="weight" attr.type="int"/>
+<graph edgedefault="undirected"><node id="anna wintour"/>
+<node id="rihanna"/>
+<node id="elle fanning"/>
+<node id="florence pugh"/>
+<node id="michelle yeoh"/>
+<node id="pete davidson"/>
+<node id="doja cat"/>
+<node id="ice spice"/>
+<node id="jared leto"/>
+<node id="nick jonas"/>
+<node id="anok yai"/>
+<node id="halle bailey"/>
+<node id="dua lipa"/>
+<node id="jenna ortega"/>
+<node id="olivia rodrigo"/>
+<node id="kim kardashian"/>
+<node id="anne hathaway"/>
+<node id="gigi hadid"/>
+<node id="priyanka chopra"/>
+<node id="jessica chastain"/>
+<node id="lily collins"/>
+<node id="penélope cruz"/>
+<node id="emma chamberlain"/>
+<node id="bad bunny"/>
+<node id="kendall jenner"/>
+<node id="kylie jenner"/>
+<node id="naomi campbell"/>
+<node id="roger federer"/>
+<node id="salma hayek"/>
+<node id="amanda seyfried"/>
+<edge source="anna wintour" target="rihanna">
+  <data key="d0">2</data>
+</edge>
+<edge source="rihanna" target="doja cat">
+  <data key="d0">3</data>
+</edge>
+<edge source="rihanna" target="ice spice">
+  <data key="d0">2</data>
+</edge>
+<edge source="rihanna" target="kim kardashian">
+  <data key="d0">2</data>
+</edge>
+<edge source="rihanna" target="jared leto">
+  <data key="d0">2</data>
+</edge>
+<edge source="elle fanning" target="florence pugh">
+  <data key="d0">4</data>
+</edge>
+<edge source="elle fanning" target="gigi hadid">
+  <data key="d0">3</data>
+</edge>
+<edge source="elle fanning" target="jessica chastain">
+  <data key="d0">2</data>
+</edge>
+<edge source="elle fanning" target="bad bunny">
+  <data key="d0">2</data>
+</edge>
+<edge source="elle fanning" target="doja cat">
+  <data key="d0">2</data>
+</edge>
+<edge source="elle fanning" target="dua lipa">
+  <data key="d0">2</data>
+</edge>
+<edge source="elle fanning" target="jenna ortega">
+  <data key="d0">2</data>
+</edge>
+<edge source="elle fanning" target="kendall jenner">
+  <data key="d0">2</data>
+</edge>
+<edge source="elle fanning" target="kylie jenner">
+  <data key="d0">2</data>
+</edge>
+<edge source="elle fanning" target="lily collins">
+  <data key="d0">2</data>
+</edge>
+<edge source="elle fanning" target="naomi campbell">
+  <data key="d0">2</data>
+</edge>
+<edge source="elle fanning" target="olivia rodrigo">
+  <data key="d0">2</data>
+</edge>
+<edge source="elle fanning" target="priyanka chopra">
+  <data key="d0">2</data>
+</edge>
+<edge source="elle fanning" target="roger federer">
+  <data key="d0">2</data>
+</edge>
+<edge source="elle fanning" target="salma hayek">
+  <data key="d0">2</data>
+</edge>
+<edge source="florence pugh" target="gigi hadid">
+  <data key="d0">3</data>
+</edge>
+<edge source="florence pugh" target="jessica chastain">
+  <data key="d0">2</data>
+</edge>
+<edge source="florence pugh" target="bad bunny">
+  <data key="d0">2</data>
+</edge>
+<edge source="florence pugh" target="doja cat">
+  <data key="d0">2</data>
+</edge>
+<edge source="florence pugh" target="dua lipa">
+  <data key="d0">2</data>
+</edge>
+<edge source="florence pugh" target="jenna ortega">
+  <data key="d0">2</data>
+</edge>
+<edge source="florence pugh" target="kendall jenner">
+  <data key="d0">2</data>
+</edge>
+<edge source="florence pugh" target="kylie jenner">
+  <data key="d0">2</data>
+</edge>
+<edge source="florence pugh" target="lily collins">
+  <data key="d0">2</data>
+</edge>
+<edge source="florence pugh" target="naomi campbell">
+  <data key="d0">2</data>
+</edge>
+<edge source="florence pugh" target="olivia rodrigo">
+  <data key="d0">2</data>
+</edge>
+<edge source="florence pugh" target="priyanka chopra">
+  <data key="d0">2</data>
+</edge>
+<edge source="florence pugh" target="roger federer">
+  <data key="d0">2</data>
+</edge>
+<edge source="florence pugh" target="salma hayek">
+  <data key="d0">2</data>
+</edge>
+<edge source="michelle yeoh" target="pete davidson">
+  <data key="d0">2</data>
+</edge>
+<edge source="doja cat" target="ice spice">
+  <data key="d0">2</data>
+</edge>
+<edge source="doja cat" target="dua lipa">
+  <data key="d0">3</data>
+</edge>
+<edge source="doja cat" target="halle bailey">
+  <data key="d0">2</data>
+</edge>
+<edge source="doja cat" target="jared leto">
+  <data key="d0">3</data>
+</edge>
+<edge source="doja cat" target="jenna ortega">
+  <data key="d0">3</data>
+</edge>
+<edge source="doja cat" target="emma chamberlain">
+  <data key="d0">2</data>
+</edge>
+<edge source="doja cat" target="bad bunny">
+  <data key="d0">2</data>
+</edge>
+<edge source="doja cat" target="gigi hadid">
+  <data key="d0">2</data>
+</edge>
+<edge source="doja cat" target="kendall jenner">
+  <data key="d0">2</data>
+</edge>
+<edge source="doja cat" target="kylie jenner">
+  <data key="d0">2</data>
+</edge>
+<edge source="doja cat" target="lily collins">
+  <data key="d0">2</data>
+</edge>
+<edge source="doja cat" target="naomi campbell">
+  <data key="d0">2</data>
+</edge>
+<edge source="doja cat" target="olivia rodrigo">
+  <data key="d0">2</data>
+</edge>
+<edge source="doja cat" target="priyanka chopra">
+  <data key="d0">2</data>
+</edge>
+<edge source="doja cat" target="roger federer">
+  <data key="d0">2</data>
+</edge>
+<edge source="doja cat" target="salma hayek">
+  <data key="d0">2</data>
+</edge>
+<edge source="ice spice" target="halle bailey">
+  <data key="d0">2</data>
+</edge>
+<edge source="ice spice" target="lily collins">
+  <data key="d0">2</data>
+</edge>
+<edge source="jared leto" target="nick jonas">
+  <data key="d0">3</data>
+</edge>
+<edge source="anok yai" target="halle bailey">
+  <data key="d0">2</data>
+</edge>
+<edge source="halle bailey" target="dua lipa">
+  <data key="d0">2</data>
+</edge>
+<edge source="halle bailey" target="lily collins">
+  <data key="d0">2</data>
+</edge>
+<edge source="dua lipa" target="penélope cruz">
+  <data key="d0">2</data>
+</edge>
+<edge source="dua lipa" target="bad bunny">
+  <data key="d0">2</data>
+</edge>
+<edge source="dua lipa" target="gigi hadid">
+  <data key="d0">2</data>
+</edge>
+<edge source="dua lipa" target="jenna ortega">
+  <data key="d0">2</data>
+</edge>
+<edge source="dua lipa" target="kendall jenner">
+  <data key="d0">2</data>
+</edge>
+<edge source="dua lipa" target="kylie jenner">
+  <data key="d0">2</data>
+</edge>
+<edge source="dua lipa" target="lily collins">
+  <data key="d0">2</data>
+</edge>
+<edge source="dua lipa" target="naomi campbell">
+  <data key="d0">2</data>
+</edge>
+<edge source="dua lipa" target="olivia rodrigo">
+  <data key="d0">2</data>
+</edge>
+<edge source="dua lipa" target="priyanka chopra">
+  <data key="d0">2</data>
+</edge>
+<edge source="dua lipa" target="roger federer">
+  <data key="d0">2</data>
+</edge>
+<edge source="dua lipa" target="salma hayek">
+  <data key="d0">2</data>
+</edge>
+<edge source="jenna ortega" target="olivia rodrigo">
+  <data key="d0">3</data>
+</edge>
+<edge source="jenna ortega" target="anne hathaway">
+  <data key="d0">3</data>
+</edge>
+<edge source="jenna ortega" target="bad bunny">
+  <data key="d0">2</data>
+</edge>
+<edge source="jenna ortega" target="gigi hadid">
+  <data key="d0">2</data>
+</edge>
+<edge source="jenna ortega" target="kendall jenner">
+  <data key="d0">2</data>
+</edge>
+<edge source="jenna ortega" target="kylie jenner">
+  <data key="d0">2</data>
+</edge>
+<edge source="jenna ortega" target="lily collins">
+  <data key="d0">2</data>
+</edge>
+<edge source="jenna ortega" target="naomi campbell">
+  <data key="d0">2</data>
+</edge>
+<edge source="jenna ortega" target="priyanka chopra">
+  <data key="d0">2</data>
+</edge>
+<edge source="jenna ortega" target="roger federer">
+  <data key="d0">2</data>
+</edge>
+<edge source="jenna ortega" target="salma hayek">
+  <data key="d0">2</data>
+</edge>
+<edge source="jenna ortega" target="amanda seyfried">
+  <data key="d0">2</data>
+</edge>
+<edge source="olivia rodrigo" target="bad bunny">
+  <data key="d0">2</data>
+</edge>
+<edge source="olivia rodrigo" target="gigi hadid">
+  <data key="d0">2</data>
+</edge>
+<edge source="olivia rodrigo" target="kendall jenner">
+  <data key="d0">2</data>
+</edge>
+<edge source="olivia rodrigo" target="kylie jenner">
+  <data key="d0">2</data>
+</edge>
+<edge source="olivia rodrigo" target="lily collins">
+  <data key="d0">2</data>
+</edge>
+<edge source="olivia rodrigo" target="naomi campbell">
+  <data key="d0">2</data>
+</edge>
+<edge source="olivia rodrigo" target="priyanka chopra">
+  <data key="d0">2</data>
+</edge>
+<edge source="olivia rodrigo" target="roger federer">
+  <data key="d0">2</data>
+</edge>
+<edge source="olivia rodrigo" target="salma hayek">
+  <data key="d0">2</data>
+</edge>
+<edge source="kim kardashian" target="gigi hadid">
+  <data key="d0">2</data>
+</edge>
+<edge source="kim kardashian" target="priyanka chopra">
+  <data key="d0">2</data>
+</edge>
+<edge source="gigi hadid" target="priyanka chopra">
+  <data key="d0">3</data>
+</edge>
+<edge source="gigi hadid" target="jessica chastain">
+  <data key="d0">2</data>
+</edge>
+<edge source="gigi hadid" target="bad bunny">
+  <data key="d0">2</data>
+</edge>
+<edge source="gigi hadid" target="kendall jenner">
+  <data key="d0">2</data>
+</edge>
+<edge source="gigi hadid" target="kylie jenner">
+  <data key="d0">2</data>
+</edge>
+<edge source="gigi hadid" target="lily collins">
+  <data key="d0">2</data>
+</edge>
+<edge source="gigi hadid" target="naomi campbell">
+  <data key="d0">2</data>
+</edge>
+<edge source="gigi hadid" target="roger federer">
+  <data key="d0">2</data>
+</edge>
+<edge source="gigi hadid" target="salma hayek">
+  <data key="d0">2</data>
+</edge>
+<edge source="priyanka chopra" target="bad bunny">
+  <data key="d0">2</data>
+</edge>
+<edge source="priyanka chopra" target="kendall jenner">
+  <data key="d0">2</data>
+</edge>
+<edge source="priyanka chopra" target="kylie jenner">
+  <data key="d0">2</data>
+</edge>
+<edge source="priyanka chopra" target="lily collins">
+  <data key="d0">2</data>
+</edge>
+<edge source="priyanka chopra" target="naomi campbell">
+  <data key="d0">2</data>
+</edge>
+<edge source="priyanka chopra" target="roger federer">
+  <data key="d0">2</data>
+</edge>
+<edge source="priyanka chopra" target="salma hayek">
+  <data key="d0">2</data>
+</edge>
+<edge source="lily collins" target="bad bunny">
+  <data key="d0">2</data>
+</edge>
+<edge source="lily collins" target="kendall jenner">
+  <data key="d0">2</data>
+</edge>
+<edge source="lily collins" target="kylie jenner">
+  <data key="d0">2</data>
+</edge>
+<edge source="lily collins" target="naomi campbell">
+  <data key="d0">2</data>
+</edge>
+<edge source="lily collins" target="roger federer">
+  <data key="d0">2</data>
+</edge>
+<edge source="lily collins" target="salma hayek">
+  <data key="d0">2</data>
+</edge>
+<edge source="bad bunny" target="kendall jenner">
+  <data key="d0">2</data>
+</edge>
+<edge source="bad bunny" target="kylie jenner">
+  <data key="d0">2</data>
+</edge>
+<edge source="bad bunny" target="naomi campbell">
+  <data key="d0">2</data>
+</edge>
+<edge source="bad bunny" target="roger federer">
+  <data key="d0">2</data>
+</edge>
+<edge source="bad bunny" target="salma hayek">
+  <data key="d0">2</data>
+</edge>
+<edge source="kendall jenner" target="kylie jenner">
+  <data key="d0">2</data>
+</edge>
+<edge source="kendall jenner" target="naomi campbell">
+  <data key="d0">2</data>
+</edge>
+<edge source="kendall jenner" target="roger federer">
+  <data key="d0">2</data>
+</edge>
+<edge source="kendall jenner" target="salma hayek">
+  <data key="d0">2</data>
+</edge>
+<edge source="kylie jenner" target="naomi campbell">
+  <data key="d0">2</data>
+</edge>
+<edge source="kylie jenner" target="roger federer">
+  <data key="d0">2</data>
+</edge>
+<edge source="kylie jenner" target="salma hayek">
+  <data key="d0">2</data>
+</edge>
+<edge source="naomi campbell" target="roger federer">
+  <data key="d0">2</data>
+</edge>
+<edge source="naomi campbell" target="salma hayek">
+  <data key="d0">2</data>
+</edge>
+<edge source="roger federer" target="salma hayek">
+  <data key="d0">2</data>
+</edge>
+</graph></graphml>
